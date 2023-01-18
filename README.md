@@ -7,19 +7,19 @@
 </div>
 
 <div align="center">
-  <h3>Estudos em andamento:</h3>
+  <h3>🔘Estudos em andamento:</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
 <div align="center">
-  <h3>Habilidades como dev:</h3>
+  <h3>🔘Habilidades como dev:</h3>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 <div align="center">
-  <h3>Experiência com Aplicativos de Designer:</h3>
+  <h3>🔘Experiência com Aplicativos de Designer:</h3>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -33,7 +33,7 @@
 </div>
  
   <div>
-    <h3>Redes de Contato:</h3>
+    <h3>🔘Redes de Contato:</h3>
      <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
