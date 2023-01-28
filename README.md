@@ -7,7 +7,7 @@
 </div>
 
 <div align="start">
-  <h3>🔵Estudos em andamento:</h3>
+  <h3>🟡Estudos em andamento:</h3>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
@@ -30,7 +30,7 @@
 </div>
 
 <div align="end">
-  <h3>🟡Experiência com Aplicativos:</h3>
+  <h3>🔵Experiência com Aplicativos:</h3>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
   <br><br>
@@ -44,7 +44,7 @@
 </div>
   
   <div>
-    <h3>🔘Redes de Contato:</h3>
+    <h3>🟡Redes de Contato:</h3>
      <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
