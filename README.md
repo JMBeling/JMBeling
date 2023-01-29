@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2 align="center">Meu nome é Jaine Beling, tenho 23 anos.<br>Estou cursando Engenharia de Software, na UNINTER.<br>Além de estar fazendo outros diversos cursos da área.</h2>
+  <h2 align="center">Meu nome é Jaine Beling, tenho 23 anos.<br>Estou cursando Engenharia de Software, na UNINTER.<br>Além de estar fazendo outros diversos cursos na área.</h2>
 </div>
 
 <div align="start">
