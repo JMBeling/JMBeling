@@ -3,14 +3,13 @@
 </div>
 
 <div>
-  <h2 align="center">Meu nome é Jaine Beling, tenho 23 anos.<br>Estou cursando Engenharia de Software, na UNINTER.<br>Além de estar fazendo outros diversos cursos na área.</h2>
+  <h2 align="center">Meu nome é Jaine Beling, tenho 23 anos.<br>Estou cursando Engenharia de Software, na UNINTER.<br>No momento possuo mais experiência com Front-end.<br>Planejo me tornar uma profissional Full Stack com o tempo.</h2>
 </div>
 
 <div align="start">
   <h3>🟡Estudos em andamento:</h3>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div> 
 
