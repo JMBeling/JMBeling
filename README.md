@@ -41,9 +41,23 @@
   <img height="170em" "width="40%" src="https://github-readme-stats.vercel.app/api?username=JMBeling&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" "width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBeling&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-</div>
   
-  <div>
+</div>
+  <div align="start">
+  <h3>🔵Sobre:</h3> 
+  <h4> 🔹Sou filha de empreendedores e desde muito nova sigo o exemplo de  
+  <br>meus pais, empreendendo em diversas áreas.<br> 
+  🔹Possuo uma visão empreendedora muito aguçada.<br>
+  🔹Além de experiência com público, negócios e vendas.<br>
+  🔹No momento estou cursando Engenharia de Software na UNINTER, além de <br>
+    fazer diversos cursos na área.<br>
+  🔹Entrei neste mercado por ver muitas oportunidades de crescimento,<br>
+    empreendimento e novos desafios.<br>
+  🔹Espero encontrar uma empresa, com os mesmos ideais de crescimento e <br>
+    visão de negócio.</h4>
+</div> 
+  
+  <div align="end">
     <h3>🟡Contato:</h3>
      <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
