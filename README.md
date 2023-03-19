@@ -44,17 +44,28 @@
   
 </div>
   <div align="start">
-  <h3>🔵Sobre:</h3> 
+  <h3>🔵SOBRE MIM:</h3> 
   <h4> 🔹Sou filha de empreendedores e desde muito nova sigo o exemplo de  
   <br>meus pais, empreendendo em diversas áreas.<br> 
-  🔹Possuo uma visão empreendedora muito aguçada.<br>
-  🔹Além de experiência com público, negócios e vendas.<br>
-  🔹No momento estou cursando Engenharia de Software na UNINTER, além de <br>
-    fazer diversos cursos na área.<br>
-  🔹Entrei neste mercado por ver muitas oportunidades de crescimento,<br>
-    empreendimento e novos desafios.<br>
-  🔹Espero encontrar uma empresa, com os mesmos ideais de crescimento e <br>
-    visão de negócio.</h4>
+    🔹SOFT SKILLS:<br>
+    🔸Ideias Inovadoras<br>
+    🔸Boa Comunicação<br>
+    🔸Empatia<br>
+    🔸Responsabilidade<br></h4>
+  <a href="CURRICULO" target="_blank">CURRÍCULO COMPLETO</a>
+  
+   <h3>🔵CRESCIMENTO DE CARREIRA:</h3> 
+  <h4> 🔹Graduação em Engenharia de Software UNINTER.<br> 
+       🔹Além da graduação venho fazendo diversos cursos, com objetivo de<br> 
+    complementar o conteúdo da faculdade e me especializar.<br>
+       🔹No momento também estou fazendo cursos de Inglês.<br> </h4>
+  
+   <h3>🔵OBJETIVO:</h3> 
+  <h4> 🔹Entrei neste mercado por ver muitas oportunidades de crescimento, <br>
+    empreendimento e novos desafios.<br> 
+       🔹Espero encontrar uma empresa, com os mesmos ideais de crescimento <br>
+    e visão inovadora.<br></h4>
+  
 </div> 
   
   <div align="end">
