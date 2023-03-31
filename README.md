@@ -44,27 +44,28 @@
   
 </div>
   <div align="start">
-  <h3>🔵SOBRE MIM:</h3> 
-  <h4> 🔹Sou filha de empreendedores e desde muito nova sigo o exemplo de  
-  <br>meus pais, empreendendo em diversas áreas.<br> 
-    🔹SOFT SKILLS:<br>
-    🔸Ideias Inovadoras<br>
-    🔸Boa Comunicação<br>
-    🔸Empatia<br>
-    🔸Responsabilidade<br></h4>
-  <a href="CURRICULO" target="_blank">CURRÍCULO COMPLETO</a>
-  
+  <h3>🔵OBJETIVO:</h3> 
+  <h4> 🔹Entrei neste mercado por ver muitas oportunidades de crescimento, <br>
+    empreendimento e novos desafios.<br> 
+       🔹Espero encontrar uma empresa, com os mesmos ideais de crescimento <br>
+    e visão inovadora.<br>
+       
    <h3>🔵CRESCIMENTO DE CARREIRA:</h3> 
   <h4> 🔹Graduação em Engenharia de Software UNINTER.<br> 
        🔹Além da graduação venho fazendo diversos cursos, com objetivo de<br> 
     complementar o conteúdo da faculdade e me especializar.<br>
-       🔹No momento também estou fazendo cursos de Inglês.<br> </h4>
+       🔹No momento também estou fazendo cursos de Inglês.<br> 
+       🔹<a href="CURRICULO" target="_blank">CURRÍCULO COMPLETO</a></h4></h4>
   
-   <h3>🔵OBJETIVO:</h3> 
-  <h4> 🔹Entrei neste mercado por ver muitas oportunidades de crescimento, <br>
-    empreendimento e novos desafios.<br> 
-       🔹Espero encontrar uma empresa, com os mesmos ideais de crescimento <br>
-    e visão inovadora.<br></h4>
+  <h3>🔵SOFT SKILLS:</h3>
+  <h4>🔸Criatividade</h4>
+  <h5>Sempre estou pensando em como inovar, deixar o trabalho mais ágil e produtivo.</h5>
+  <h4>🔸Comunicação</h4>
+  <h5>Procuro entender a pessoa que está do outro lado da conversa, respeitando o seu espaço de fala.</h5>
+      <h4>🔸Resiliência</h4>
+       <h5>Enfrento desafios e dificuldades dando meu melhor, mantendo a cabeça erguida e tirando aprendizados de cada momento.</h5>
+      <h4>🔸Desenvolvimento Pessoal</h4>
+       <h5>Estou sempre me reinventando, fazendo cursos, assistindo palestras. Tudo com foco em me desenvolver profissionalmente e como pessoa.</h5>
   
 </div> 
   
