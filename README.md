@@ -56,17 +56,7 @@
     complementar o conteúdo da faculdade e me especializar.<br>
        🔹No momento também estou fazendo cursos de Inglês.<br> 
        🔹<a href="CURRICULO" target="_blank">CURRÍCULO COMPLETO</a></h4></h4>
-  
-  <h3>🔵SOFT SKILLS:</h3>
-  <h4>🔸Criatividade</h4>
-  <h5>Sempre estou pensando em como inovar, deixar o trabalho mais ágil e produtivo.</h5>
-  <h4>🔸Comunicação</h4>
-  <h5>Procuro entender a pessoa que está do outro lado da conversa, respeitando o seu espaço de fala.</h5>
-      <h4>🔸Resiliência</h4>
-       <h5>Enfrento desafios e dificuldades dando meu melhor, mantendo a cabeça erguida e tirando aprendizados de cada momento.</h5>
-      <h4>🔸Desenvolvimento Pessoal</h4>
-       <h5>Estou sempre me reinventando, fazendo cursos, assistindo palestras. Tudo com foco em me desenvolver profissionalmente e como pessoa.</h5>
-  
+ 
 </div> 
   
   <div align="end">
