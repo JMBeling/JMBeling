@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2 align="center">Olá, sou Jaine, estudante de engenharia de software apaixonada por tecnologia e inovação.<br> Estou constantemente buscando novas maneiras de expandir meu conhecimento e aprimorar minhas habilidades em programação e desenvolvimento de software.<br></h2>
+  <h3 align="center">Olá, sou Jaine, estudante de engenharia de software apaixonada por tecnologia e inovação.<br> Estou constantemente buscando novas maneiras de expandir meu conhecimento e aprimorar minhas habilidades em programação e desenvolvimento de software.<br></h3>
 </div>
 
 <div align="start">
