@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2 align="center">Meu nome é Jaine Beling, tenho 23 anos.<br></h2>
+  <h2 align="center">Olá, sou Jaine, estudante de engenharia de software apaixonada por tecnologia e inovação.<br> Estou constantemente buscando novas maneiras de expandir meu conhecimento e aprimorar minhas habilidades em programação e desenvolvimento de software.<br></h2>
 </div>
 
 <div align="start">
@@ -45,19 +45,8 @@
   
 </div>
   <div align="start">
-  <h3>🔵OBJETIVO:</h3> 
-  <h4> 🔹Entrei neste mercado por ver muitas oportunidades de crescimento, <br>
-    empreendimento e novos desafios.<br> 
-       🔹Espero encontrar uma empresa, com os mesmos ideais de crescimento <br>
-    e visão inovadora.<br>
-       
-   <h3>🔵CRESCIMENTO DE CARREIRA:</h3> 
-  <h4> 🔹Graduação em Engenharia de Software UNINTER.<br> 
-       🔹Além da graduação venho fazendo diversos cursos, com objetivo de<br> 
-    complementar o conteúdo da faculdade e me especializar.<br>
-       🔹No momento também estou fazendo cursos de Inglês.<br> 
-       🔹<a href="CURRICULO" target="_blank">CURRÍCULO COMPLETO</a></h4></h4>
- 
+  <h3>🔵Atualmente estou cursando a graduação em Engenharia de<br> Software na UNINTER. Estou aprendendo habilidades avançadas em<br> programação, análise de dados e design de software, e estou<br> animada para aplicar essas habilidades em projetos futuros.</h3> 
+
 </div> 
   
   <div align="end">
