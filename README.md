@@ -1,6 +1,6 @@
 <div align=""> 
   <img  align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/7b79dd1e-9c65-4878-9bbb-8ca72fd9624e"> 
-  <h1>JAINE BELING - 23 anos - Gaúcha <BR> Viciada em Livros, Astronomia & Musica 📚🛸</h1>  
+  <h1>JAINE BELING - 23 anos - Gaúcha <BR> Viciada em Livros, Astronomia & Musica 🛸</h1>  
 </div>
 
 <div align="end">
@@ -26,7 +26,7 @@
 
 <div align="start">
   <h2>🎓FORMAÇÃO ACADÊMICA: </h2>
-  <code><img height="100em "width="10%"src="https://github.com/JMBeling/JMBeling/assets/95389587/bb74f20e-a720-4219-870a-f5117be1a4fe" /></code>
+  <code><img height="110em "width="11%"src="https://github.com/JMBeling/JMBeling/assets/95389587/bb74f20e-a720-4219-870a-f5117be1a4fe" /></code>
   <h2>BACHARELADO EM ENGENHARIA DE SOFTWARE - SET/2022 / ATUALMENTE</h2>
 </div>
 
@@ -59,6 +59,6 @@
  <img align="right" width="200px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/6cd60c71-f90a-445a-8837-626f74b37cd5">
   <h3>📬CONTATO:</h3>
 <img align="start" width="130px"  src="https://github.com/JMBeling/JMBeling/assets/95389587/6c55cb8f-6d31-4775-ad3b-d732c23cbf54"><a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img height="130em "width="20%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> <br>
- <a href="https://www.instagram.com/jm_beling/" target="_blank"><img height="80em "width="29%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.instagram.com/jm_beling/" target="_blank"><img height="80em "width="35%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
  </div>
