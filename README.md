@@ -20,7 +20,6 @@
   <h2>🖥️ EXPERIÊNCIA UTILIZANDO SOFTWARE: </h2>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
   <code><img height="80em "width="8%"src="https://github.com/JMBeling/JMBeling/assets/95389587/c0f45e0f-3d40-45fa-b365-f0fc627ce48e"></code>
-  <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 </div>
 
