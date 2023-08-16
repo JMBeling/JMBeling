@@ -26,7 +26,7 @@
 
 <div align="start">
   <h2>🎓FORMAÇÃO ACADÊMICA: </h2>
-  <code><img height="110em "width="11%"src="https://github.com/JMBeling/JMBeling/assets/95389587/bb74f20e-a720-4219-870a-f5117be1a4fe" /></code>
+  <code><img height="110em "width="12%"src="https://github.com/JMBeling/JMBeling/assets/95389587/bb74f20e-a720-4219-870a-f5117be1a4fe" /></code>
   <h2>BACHARELADO EM ENGENHARIA DE SOFTWARE - SET/2022 / ATUALMENTE</h2>
 </div>
 
@@ -42,7 +42,7 @@
 
 <div>
   <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/2f8855aa-3616-4c4a-bf8a-4247fd9cdb2f">
-  <h2 align="center">🖌️EXPERIÊNCIA COM APLICATIVOS DE DESIGNER:</h2>
+  <h2 align="center">🖌️EXPERIÊNCIA COM SOFTWARE DE DESIGNER:</h2>
   <div align="center">
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /></code>
