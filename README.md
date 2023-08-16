@@ -1,23 +1,23 @@
 <div align=""> 
   <img  align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/7b79dd1e-9c65-4878-9bbb-8ca72fd9624e"> 
-  <h1>JAINE BELING - 23 anos - Gaúcha <BR> Viciada em Livros, Astronomia & Musica 📚🛸🎶</h1>  
+  <h1>JAINE BELING - 23 anos - Gaúcha <BR> Viciada em Livros, Astronomia & Musica 📚🛸</h1>  
 </div>
 
 <div align="end">
-  <h3>🚀ESTUDOS EM ANDAMENTO:</h3>
+  <h2>🚀ESTUDOS EM ANDAMENTO:</h2>
   <code><img height="60em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img height="75em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
   <code><img height="75em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></code>
 </div> 
 
 <div align="start">
-  <h3>✅ HABILIDADES COMO DEV: </h3>
+  <h2>✅ HABILIDADES COMO DEV: </h2>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
 </div>
 
 <div align="end">
-  <h3>🖥️ EXPERIÊNCIA UTILIZANDO SOFTWARE: </h3>
+  <h2>🖥️ EXPERIÊNCIA UTILIZANDO SOFTWARE: </h2>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
   <code><img height="80em "width="8%"src="https://github.com/JMBeling/JMBeling/assets/95389587/c0f45e0f-3d40-45fa-b365-f0fc627ce48e"></code>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
@@ -27,14 +27,14 @@
 <div align="start">
   <h2>🎓FORMAÇÃO ACADÊMICA: </h2>
   <code><img height="100em "width="10%"src="https://github.com/JMBeling/JMBeling/assets/95389587/bb74f20e-a720-4219-870a-f5117be1a4fe" /></code>
-  <h3>BACHARELADO EM ENGENHARIA DE SOFTWARE - SET/2022 / ATUALMENTE</h3>
+  <h2>BACHARELADO EM ENGENHARIA DE SOFTWARE - SET/2022 / ATUALMENTE</h2>
 </div>
 
 
-<div align="center" width="250px" style="margin-top:-20px">
+<div align="center" >
   <a href="https://github.com/JMBeling">
-  <img height="200em" "width="80%" src="https://github-readme-stats.vercel.app/api?username=JMBeling&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" "width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBeling&layout=compact&langs_count=7&theme=algolia"/> 
+  <img height="180em" "width="80%" src="https://github-readme-stats.vercel.app/api?username=JMBeling&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" "width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBeling&layout=compact&langs_count=7&theme=algolia"/> 
 </div>
 
 <br>
