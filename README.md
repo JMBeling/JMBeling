@@ -1,6 +1,6 @@
 <div align=""> 
   <img  align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/7b79dd1e-9c65-4878-9bbb-8ca72fd9624e"> 
-  <h1>JAINE BELING - 23 anos - Gaúcha <BR> Viciada em Livros, Astronomia & Tecnologia🛸</h1>  
+  <h1>JAINE BELING - 23 anos - Gaúcha 🛸🚀📚 <BR> Viciada em Livros, Astronomia & Tecnologia</h1>  
 </div>
 
 <div align="end">
