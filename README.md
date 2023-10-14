@@ -2,7 +2,9 @@
   <img  align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/7b79dd1e-9c65-4878-9bbb-8ca72fd9624e"> 
   <h1>JAINE BELING - 24 anos - Gaúcha 🛸🚀📚 <BR> Viciada em Livros, Tecnologia & Astronomia</h1>  
 </div>
-
+<div>
+  <h1>👩🏼‍💻<a href="https://jmbeling.github.io/Portifolio_Pessoal/" >PORTFÓLIO PESSOAL</a></h1>
+</div>
 <div align="end">
   <h2>🚀ESTUDOS EM ANDAMENTO:</h2>
   <code><img height="60em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
