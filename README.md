@@ -26,7 +26,7 @@
   <h1 align="center">PROJETOS:</h1>
   
   <div>
-  <img  align="right" width="500"  src="https://github.com/JMBeling/JMBeling/assets/95389587/32d4a3f5-39a5-4737-82c3-b383f1910fd8">
+  <img  align="right" width="600"  src="https://github.com/JMBeling/JMBeling/assets/95389587/32d4a3f5-39a5-4737-82c3-b383f1910fd8">
   <h2 align="center">🔆Aplicativo de Controle de Tarefas🔆</h2>
   <h4>  Este projeto consiste em um trabalho da graduação. O protótipo a seguir visa a criação de um aplicativo de controle de tarefas pessoais.<br>
   O usuário pode cadastrar as tarefas por data e prioridade e visualizá-las por data.<br>  Além de poder, editar e excluir as tarefas. O protótipo deveria ser de alta fidelidade e interativo como um aplicativo completo.</h4>
