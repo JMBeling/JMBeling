@@ -1,5 +1,8 @@
 <div align=""> 
   <img  align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/7b79dd1e-9c65-4878-9bbb-8ca72fd9624e"> 
+  <h1>Bem-Vindo!</h1>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jaine-beling" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jaine-beling?trk=profile-badge">Jaine Beling</a></div>
+              
   <h1>JAINE BELING - 24 anos - Gaúcha 🛸🚀📚 <BR> Viciada em Livros, Tecnologia & Astronomia</h1>  
 </div>
 <div>
