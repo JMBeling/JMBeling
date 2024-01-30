@@ -26,11 +26,11 @@
   <h1 align="center">PROJETOS:</h1>
   
   <div>
-  <img  align="right" width="600"  src="https://github.com/JMBeling/JMBeling/assets/95389587/32d4a3f5-39a5-4737-82c3-b383f1910fd8">
+  <img  align="right" width="500"  src="https://github.com/JMBeling/JMBeling/assets/95389587/32d4a3f5-39a5-4737-82c3-b383f1910fd8">
   <h2 align="center">🔆Aplicativo de Controle de Tarefas🔆</h2>
   <h4>  Este projeto consiste em um trabalho da graduação. O protótipo a seguir visa a criação de um aplicativo de controle de tarefas pessoais.<br>
-  O usuário pode cadastrar as tarefas por data e prioridade e visualizá-las por data.<br>  Além de poder, editar e excluir as tarefas. O protótipo deveria ser de alta fidelidade e interativo como um aplicativo completo.</h4>
-<a href="https://www.figma.com/proto/81VKkGSLku1Pb1i0sqCh2C/Projeto-Design-de-Aplicativos-M%C3%B3veis?node-id=3-16&starting-point-node-id=3%3A16" target="_blank"><img  align="right" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/9c1e4f22-3a05-4ee6-a2c2-ef403788b95b"></a>
+  O usuário pode cadastrar as tarefas por data e prioridade e visualizá-las por data.<br>  Além de poder, editar e excluir as tarefas. O protótipo deveria ser de alta fidelidade e interativo como um aplicativo completo.</h4><br>
+<a href="https://www.figma.com/proto/81VKkGSLku1Pb1i0sqCh2C/Projeto-Design-de-Aplicativos-M%C3%B3veis?node-id=3-16&starting-point-node-id=3%3A16" target="_blank"><img  width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/9c1e4f22-3a05-4ee6-a2c2-ef403788b95b"></a>
   </div>
  <br>
  <br>
@@ -42,7 +42,7 @@
   <h4>Este projeto é parte da "Formação em UX Designer" da DIO.<br> O Wireframe a seguir visa a criação de uma Landing Page de um produto.<br>
 A página possui 5 partes: HOME - SOBRE - VANTAGENS - DEPOIMENTOS - COMPRE AGORA.<br>
 O Wireframe deveria ser de Média fidelidade, requisito era ser sobre um produto.</h4>
-<a href="https://www.figma.com/community/file/1302019694718479905" target="_blank"><img  align="right" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/9c1e4f22-3a05-4ee6-a2c2-ef403788b95b"></a>
+<a href="https://www.figma.com/community/file/1302019694718479905" target="_blank"><img  width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/9c1e4f22-3a05-4ee6-a2c2-ef403788b95b"></a>
   </div>
 </div>
 <br>
