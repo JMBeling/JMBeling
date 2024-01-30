@@ -1,12 +1,12 @@
 <div align=""> 
-  <img  align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/JMBeling/assets/95389587/7b79dd1e-9c65-4878-9bbb-8ca72fd9624e"> 
-  <h1>Bem-Vindo!</h1>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jaine-beling" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jaine-beling?trk=profile-badge">Jaine Beling</a></div>
-              
-  <h1>JAINE BELING - 24 anos - Gaúcha 🛸🚀📚 <BR> Viciada em Livros, Tecnologia & Astronomia</h1>  
+ <img  align="right" width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/774eb1da-54a2-4760-8a7a-265a86c27059">
 </div>
+
 <div>
-  <h1>👩🏼‍💻<a href="https://jmbeling.github.io/Portifolio_Pessoal/" >PORTFÓLIO PESSOAL</a></h1>
+  <h1 align="center" >Sou Jaine Beling, Estudante de Engenharia de Software</h1>
+ <img  align="right" width="300"  src="https://github.com/JMBeling/JMBeling/assets/95389587/ee4aa6e3-8c04-461c-b59f-b9a8fe8e34f1">
+
+  <h4>🟦<br>🟪Minha carreira como desenvolvedora, teve seu inicio mais foca em <br>🟦Front-End, começando com HTML, CSS, Design UI/UX, como já utilizava<br>🟪o Photoshop, Figma e outros editores, já estava familiarizada. <br>🟦Porém ao decorrer da faculdade aprendi Python, que me apresentou a <br>🟪possibilidades de uma carreira em Cybersecurity, desde então venho me <br>🟦especializando em Sistemas Operacionais, Redes de Computadores, inglês.<br>🟪 </h4>
 </div>
 <div align="end">
   <h2>🚀ESTUDOS EM ANDAMENTO:</h2>
@@ -28,8 +28,10 @@
   <code><img height="80em "width="9%"src="https://github.com/JMBeling/JMBeling/assets/95389587/c0f45e0f-3d40-45fa-b365-f0fc627ce48e"></code>
   <code><img height="80em "width="8%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 </div>
-
+ <img  align="right" width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/7074d99f-7724-4255-9f07-10103c074b84">
 <div align="start">
+  <h1>👩🏼‍💻<a href="https://jmbeling.github.io/Portifolio_Pessoal/" >PORTFÓLIO PESSOAL</a></h1>
+  
   <h2>🎓FORMAÇÃO ACADÊMICA: </h2>
   <code><img height="110em "width="12%"src="https://github.com/JMBeling/JMBeling/assets/95389587/bb74f20e-a720-4219-870a-f5117be1a4fe" /></code>
   <h2>BACHARELADO EM ENGENHARIA DE SOFTWARE - SET/2022 / ATUALMENTE</h2>
