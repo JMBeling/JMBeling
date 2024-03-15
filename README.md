@@ -5,8 +5,7 @@
 <div>
   <h1 align="center" >Sou Jaine Beling, Estudante de Engenharia de Software</h1>
   <img  align="right" width="250"  src="https://github.com/JMBeling/JMBeling/assets/95389587/ee4aa6e3-8c04-461c-b59f-b9a8fe8e34f1">
-  <h4>  Minha carreira como desenvolvedora, teve seu inicio mais foca em Front-End, começando com HTML, CSS, Design UI/UX, como já utilizava o Photoshop, Figma e outros editores, já estava familiarizada. Porém ao decorrer da faculdade aprendi Python, que me apresentou a possibilidades de uma carreira em Cybersecurity, desde então venho me especializando em Sistemas Operacionais, Redes de Computadores, inglês.</h4>
- <br> <br>
+ 
  <a href="https://jmbeling.github.io/Portifolio_Pessoal/" target="_blank"><img  align="right" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/d93023f9-aecc-475d-b09c-7123d71dc016"></a>
   <a href="/" target="_blank"><img  align="right" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/925f6660-2bfc-4936-ba3d-894c8640222d"></a>
 </div>
@@ -16,8 +15,8 @@
 <div>  
 <div align="center" >
   <a href="https://github.com/JMBeling">
-  <img height="180em" "width="80%" src="https://github-readme-stats.vercel.app/api?username=JMBeling&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" "width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBeling&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <img height="170em" "width="70%" src="https://github-readme-stats.vercel.app/api?username=JMBeling&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" "width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMBeling&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
    
  <img  align="" width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/a40ca8eb-ee2e-417d-b114-715f53dd0c38">
