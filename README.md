@@ -2,7 +2,7 @@
   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
 <br>
 <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0952C8&center=verdadeiro&vCenter=falso&repeat=falso&random=falso&width=400&lines=%F0%9F%94%B7Hi%2C+I'm+Jaine+Beling+" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E4A30B&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=525&lines=+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;-+BRASILEIRA+%F0%9F%8C%8E;+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0952C8&center=verdadeiro&vCenter=falso&repeat=falso&random=falso&width=400&lines=%F0%9F%94%B7Hi%2C+I'm+Jaine+Beling+" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E4A30B&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=500&lines=+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;-+BRASILEIRA+%F0%9F%8C%8E;+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
   <img width="1300" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
 <br>
 <br>
