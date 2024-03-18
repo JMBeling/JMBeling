@@ -2,17 +2,10 @@
   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
 <br>
 <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0952C8&center=verdadeiro&vCenter=falso&repeat=falso&random=falso&width=435&lines=%F0%9F%94%B7Hi%2C+I'm+Jaine+Beling+" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E4A30B&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=550&lines=+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;-+BRASILEIRA+%F0%9F%8C%8E;+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0952C8&center=verdadeiro&vCenter=falso&repeat=falso&random=falso&width=400&lines=%F0%9F%94%B7Hi%2C+I'm+Jaine+Beling+" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E4A30B&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=525&lines=+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;-+BRASILEIRA+%F0%9F%8C%8E;+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
   <img width="1300" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
 <br>
 <br>
-  <p aling="center">
-    <a href="https://github.com/JMBeling?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=JMBeling&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%"></a>  
-    <a href="https://github.com/JMBeling?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JMBeling&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%"></a>
-  </p>
-   <img width="1300" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
- <br>
- <br>
 <!--Resumo Profissional-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E7EFF&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=550&lines=%F0%9F%94%B7Sobre+mim%3A;%F0%9F%94%B7+Minha+Carreira+em+Tecnologia%3A;%F0%9F%94%B7+Resumo+Profissional%3A;%F0%9F%94%B7Sobre+mim%3A;%F0%9F%94%B7+Minha+Carreira+em+Tecnologia%3A;%F0%9F%94%B7+Resumo+Profissional%3A" alt="Typing SVG" /></a>
 <img  align="right" width="260"  src="https://github.com/JMBeling/JMBeling/assets/95389587/ee4aa6e3-8c04-461c-b59f-b9a8fe8e34f1">
@@ -137,6 +130,10 @@
     <a href="https://github.com/JMBeling?tab=repositories">
       <img width="30%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JMBeling&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
     </a>
+     <p aling="center">
+    <a href="https://github.com/JMBeling?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=JMBeling&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%"></a>  
+    <a href="https://github.com/JMBeling?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=JMBeling&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%"></a>
+  </p>
   </p>
   <p align="center">
     <a href="https://github.com/JMBeling/JMBeling">
