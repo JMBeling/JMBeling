@@ -2,7 +2,7 @@
   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
 <br>
 <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0952C8&center=verdadeiro&vCenter=falso&repeat=falso&random=falso&width=400&lines=%F0%9F%94%B7Hi%2C+I'm+Jaine+Beling+" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E4A30B&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=500&lines=+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;-+BRASILEIRA+%F0%9F%8C%8E;+-+SOFTWARE+ENGINEER+STUDENT+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Ol%C3%A1%2C+sou+Jaine+Beling+-+SOFTWARE+ENGINEER+STUDENT" alt="Typing SVG" /></a>
   <img width="1300" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
 <br>
 <br>
@@ -53,17 +53,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
         <br>Java
       </td>
-    </table>
-  </table>
-  <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
-  <br>
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E7EFF&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=550&lines=%F0%9F%94%B7+Tools%3A;%F0%9F%94%B7Ferramentas%3A" alt="Typing SVG" /></a>
-  <table>
-    <div style="display: flex; align-items: flex-start; align: center">
-      <table align="center">
-        <tr>
-         <td align="center" width="96">
+      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40" />
           <br>Figma
         </td>
@@ -75,6 +65,8 @@
           <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="40" height="40" />
           <br>Eclipse
         </td>
+        </tr>
+        <tr>
         <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="40" height="40" />
           <br>Photoshop
@@ -91,7 +83,6 @@
           <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
           <br>VsCode
         </td>
-        </tr>
     </table>
   </table>
   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
