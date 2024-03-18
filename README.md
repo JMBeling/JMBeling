@@ -62,6 +62,10 @@
           <br>Github
         </td>
         <td align="center" width="96">
+          <img src="https://github.com/JMBeling/JMBeling/assets/95389587/662b089f-545c-4ab1-a0bd-5d4da5ae4c03" alt="icon" width="40" height="40" />
+          <br>VirtualBox 
+        </td>
+        <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="40" height="40" />
           <br>Eclipse
         </td>
