@@ -11,7 +11,7 @@
 <img  align="right" width="260"  src="https://github.com/JMBeling/JMBeling/assets/95389587/ee4aa6e3-8c04-461c-b59f-b9a8fe8e34f1">
 <p>🔹Minha jornada na área de desenvolvimento começou com um foco inicial em Front-End, onde explorei ferramentas fundamentais como HTML, CSS e Design UI/UX. Minha familiaridade com softwares como PHOTOSHOP e FIGMA facilitou minha imersão nesse mundo desde cedo.
  <br>
-🔹À medida que avanço na minha trajetória acadêmica, ampliei meu repertório aprendendo mais sobre linguagens como PYTHON, RUBY, JAVA. Venho também me aprofundando em sistemas operacionais, com foco especial no Linux.
+🔹À medida que avanço na minha trajetória acadêmica, ampliei meu repertório aprendendo mais sobre linguagens como PYTHON, RUBY. Venho também me aprofundando em sistemas operacionais, com foco especial no Linux.
  <br>
 🔹Além disso, tenho a oportunidade de participar ativamente de projetos acadêmicos de iniciação científica, onde aplico meu conhecimento prático em desenvolvimento de software para contribuir com a pesquisa e a inovação na área.
 <br>
@@ -48,10 +48,6 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ruby&theme=dark" width="40" height="40" alt="css" />
         <br>Ruby
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
-        <br>Java
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40" />
