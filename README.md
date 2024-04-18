@@ -50,6 +50,10 @@
         <br>Ruby
       </td>
       <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="css" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40" />
           <br>Figma
         </td>
@@ -116,10 +120,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E7EFF&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=550&lines=%F0%9F%94%B7+Github+Stats%3A" alt="Typing SVG" /></a>
   <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=JMBeling&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMBeling&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="65%" alt="activity graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMBeling&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="50%" alt="activity graph">
     </a>
     <a href="https://github.com/JMBeling?tab=repositories">
-      <img width="30%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JMBeling&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+      <img width="40%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JMBeling&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
     </a>
      <p aling="center">
     <a href="https://github.com/JMBeling?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=JMBeling&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%"></a>  
