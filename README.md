@@ -12,10 +12,7 @@
 <p>🔹Minha jornada na área de desenvolvimento começou com um foco inicial em Front-End, onde explorei ferramentas fundamentais como HTML, CSS e Design UI/UX. Minha familiaridade com softwares como PHOTOSHOP e FIGMA facilitou minha imersão nesse mundo desde cedo.
  <br>
 🔹À medida que avanço na minha trajetória acadêmica, ampliei meu repertório aprendendo mais sobre linguagens como PYTHON, RUBY. Venho também me aprofundando em sistemas operacionais, com foco especial no Linux.
- <br>
-🔹Além disso, tenho a oportunidade de participar ativamente de projetos acadêmicos de iniciação científica, onde aplico meu conhecimento prático em desenvolvimento de software para contribuir com a pesquisa e a inovação na área.
-<br>
- 🔹Estou sempre entusiasmada em aprender novas tecnologias e me adaptar às demandas do mercado. Estou aberta a desafios e oportunidades que me permitam expandir meu conhecimento e contribuir para projetos inovadores. Se você está em busca de uma desenvolvedora dedicada, apaixonada por aprendizado contínuo e pronta para enfrentar novos desafios, estou ansiosa para conversar!</p>
+ </p>
  <!--Link portfólio/currículo-->
   <a href="https://jmbeling.github.io/Portifolio_Pessoal/" target="_blank"><img  align="right" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/8513c691-35f1-4c92-882d-635815f4ff90"></a>
   <a href="/" target="_blank"><img  align="right" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/bc2b947c-dd73-4fec-aaca-e4275e039af8"></a>
