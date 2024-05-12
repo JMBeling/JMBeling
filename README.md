@@ -117,6 +117,16 @@
   <br>
   <!--Contato-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+Contato%3A" alt="Typing SVG" /></a>
+  <table>
+     <tr>
+       <td align="center">
+        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/fc36d6f5-063b-4fd2-9d11-f87a0456470c" width="300px;" /></a><br/>
+       </td>
+       <td align="center">
+        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/fc36d6f5-063b-4fd2-9d11-f87a0456470c" width="300px;" /></a><br/>
+       </td>
+     </tr>
+  </table>
   <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="25%" /></a>
   <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="23%" /></a>
   <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
@@ -143,7 +153,11 @@
    <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+Visitantes%3A" alt="Typing SVG" /></a>
   <img src="https://profile-counter.glitch.me/JMBeling/count.svg"/>
+ <img width="10%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/0c27b049-64d3-4d7f-b294-012165b24a24">
+ <img width="10%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/0c27b049-64d3-4d7f-b294-012165b24a24">
+ <img width="10%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/0c27b049-64d3-4d7f-b294-012165b24a24">
+ <img width="10%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/0c27b049-64d3-4d7f-b294-012165b24a24">
+ <img width="10%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/0c27b049-64d3-4d7f-b294-012165b24a24">
  
-   
 
    
