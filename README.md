@@ -1,8 +1,5 @@
 <!--Titulo & Apresentação-->
-<img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
-<img width="20%" align="right"src="https://github.com/JMBeling/JMBeling/assets/95389587/cba7e65e-3806-4ddf-afbe-eb8c82f6ea61">
-<br>
-<br>
+<img width="20%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/cba7e65e-3806-4ddf-afbe-eb8c82f6ea61">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=65&pause=1000&color=048EF4&random=false&width=700&height=100&lines=Ol%C3%A1%2C+sou+Jaine+Beling" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&color=0482EE&random=false&width=700&lines=Desenvolvedora+Front-End;Estudante+de+Engenharia+de+Software;Ga%C3%BAcha;Desenvolvedora+Front-End" alt="Typing SVG" /></a>
 <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
@@ -25,7 +22,7 @@
   <br>
   <br>
   <!-- Linguagens, Frameworks e Bibliotecas-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=700&lines=%F0%9F%9A%80+Linguagens%2C+Frameworks+e+Bibliotecas%3A" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=900&lines=%F0%9F%9A%80+Linguagens%2C+Frameworks+e+Bibliotecas+que+utilizo%3A" alt="Typing SVG" /></a>
   <table>
     <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -57,8 +54,10 @@
     </table>
   </table>
   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+  <br>
+  <br>
    <!-- Ferramentas-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=700&lines=%F0%9F%9A%80+Ferramentas%3A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=700&lines=%F0%9F%9A%80+Ferramentas+que+utilizo%3A" alt="Typing SVG" /></a>
   <table>
     <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -113,12 +112,11 @@
         </td>
     </table>
   </table>
-  <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
+  <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
   <br>
   <br>
- 
-     <!--Gráficos-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E7EFF&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=550&lines=%F0%9F%94%B7+Github+Stats%3A" alt="Typing SVG" /></a>
+ <!--Gráficos-->
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+GitHub+Stats" alt="Typing SVG" /></a>
   <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=JMBeling&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMBeling&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="50%" alt="activity graph">
@@ -135,7 +133,10 @@
     <a href="https://github.com/JMBeling/JMBeling">
        <img src="https://github-profile-trophy.vercel.app/?username=JMBeling&column=-1&theme=tokyonight&layout=compact"width="95%"/> 
   </p>
-     <a aling="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E7EFF&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=550&lines=%F0%9F%94%B7+Visitantes%3A" alt="Typing SVG" /></a> 
+   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+   <br> 
+   <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+Visitantes%3A" alt="Typing SVG" /></a>
   <img src="https://profile-counter.glitch.me/JMBeling/count.svg"/>
   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
   <br>
