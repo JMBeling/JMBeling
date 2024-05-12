@@ -2,7 +2,7 @@
 <img width="20%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/cba7e65e-3806-4ddf-afbe-eb8c82f6ea61">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=65&pause=1000&color=048EF4&random=false&width=700&height=100&lines=Ol%C3%A1%2C+sou+Jaine+Beling" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&color=0482EE&random=false&width=700&lines=Desenvolvedora+Front-End;Estudante+de+Engenharia+de+Software;Ga%C3%BAcha;Desenvolvedora+Front-End" alt="Typing SVG" /></a>
-<img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+<img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
 <br>
 <br>
 <!--Resumo Profissional-->
@@ -18,7 +18,7 @@
   <br>
   <br>
   <br>
- <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+ <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
   <br>
   <br>
   <!-- Linguagens, Frameworks e Bibliotecas-->
@@ -53,7 +53,7 @@
       </td>
     </table>
   </table>
-  <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+  <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
   <br>
   <br>
    <!-- Ferramentas-->
@@ -112,9 +112,14 @@
         </td>
     </table>
   </table>
-  <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+  <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
   <br>
   <br>
+  <!--Contato-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+Contato%3A" alt="Typing SVG" /></a>
+  <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="25%" /></a>
+  <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="23%" /></a>
+  <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
  <!--Gráficos-->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+GitHub+Stats" alt="Typing SVG" /></a>
   <p align="center">
@@ -133,20 +138,12 @@
     <a href="https://github.com/JMBeling/JMBeling">
        <img src="https://github-profile-trophy.vercel.app/?username=JMBeling&column=-1&theme=tokyonight&layout=compact"width="95%"/> 
   </p>
-   <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+   <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
    <br> 
    <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+Visitantes%3A" alt="Typing SVG" /></a>
   <img src="https://profile-counter.glitch.me/JMBeling/count.svg"/>
-  <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
-  <br>
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E7EFF&center=falso&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=550&lines=%F0%9F%94%B7+Social+Networks%3A;%F0%9F%94%B7+Redes+Sociais%3A;%F0%9F%94%B7+Contato%3A" alt="Typing SVG" /></a><br>
-      <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="25%" /></a>
-     <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="23%" /></a>
-     <br>
-     <br>
-     <img width="1100" src="https://github.com/JMBeling/JMBeling/assets/95389587/82b0d8e2-7941-4c3e-a071-972552007194">
+ 
    
 
    
