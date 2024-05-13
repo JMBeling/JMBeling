@@ -120,15 +120,28 @@
   <table>
      <tr>
        <td align="center">
-        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/fc36d6f5-063b-4fd2-9d11-f87a0456470c" width="300px;" /></a><br/>
+        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80px;" /></a><br/>LINKEDIN
        </td>
        <td align="center">
-        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/fc36d6f5-063b-4fd2-9d11-f87a0456470c" width="300px;" /></a><br/>
+        <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/0f1b34fa-9fec-40eb-899c-a38e602bac07" width="80px;" /></a><br/>INSTAGRAM
+       </td> 
+       <td align="center">
+        <a href="https://www.figma.com/@JMBeling" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80px;" /></a><br/>FIGMA
+       </td> 
+       <td align="center">
+        <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1162666Y7&tokenCaptchar=03AFcWeA6DVldJjh7PW0l9fhXdlXzSzpSiAyORcPEuFI01KWQ_UFN8Tggy9KESfxsoec6My2K8ravGRXLH_Mq5lXJoRJldm3KYRvNCpgm4PBb1scttIE1b8NmykA_9ffkBZv5NYnm_ge_dk3F00tj_c31xyw0giznsxPFvk_-JO8OTpiPP90t5jOQNnsy60mnekRkNci7SS6xkVLEA4I6mUSp9yCOEH7SjiDAGTTiIruojoFN1AQv2kv6hfBOhxZxlysuGmBheS2dShQJT6knFAVojZR-AxZC5QIPF7r_zj3AXkMTD2sqvscFSppe1UI268wU7rvQLC25NsYKZiSzXv3Il4AlTADxKqKuWZkGaiTjbpBMm4JZa1iisX0YWSP9-Mfbbls6SfmufRvLI3HUZ5078_EQWcM8nNqe-aRLlIbcw4m-p-Z1gtF9dfzmnd7ltkbJbn2rs1yXgKSVyBkceFIi3VVqxhGWSbk8wumSgQAEitzLqvXPs1_oIo1zq3kGqexO9RGX3VlssQGN_ukpsvePbNNSFXKk9D2e2-GEdx_XtO2ovRC2W-WuEqqJH9CygeM8aakreEiiBH8Sr7xAd3qm2bJKin75HEhVffuZ4TKsy23cvXITpFKpJQj-n6tu81UV06HmU9ycljfDGUyrOHzMv12kQW0kXh20DQn3xy7PPakmlU8SwoZY" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/843d691e-b19a-4264-86c0-851f79f6fa62" width="80px;" /></a><br/>LATTES
        </td>
+      <td align="center">
+        <a href="https://stackoverflow.com/users/25008759/jaine-beling" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/d74b34b3-d362-4bd6-b124-74f7823e9725" width="80px;" /></a><br/>STRACK OVERFLOW
+       </td> 
+       <td align="center">
+        <a href="https://www.skoob.com.br/usuario/1113322" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/e5acfd7b-2077-4ed1-8f23-6534572f47e8" width="80px;" /></a><br/>SKOOB
+       </td>
+       <td align="center">
+        <a href="https://www.dio.me/users/jaine_beling" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/238598c9-1e5c-414c-a6b9-f00c9b33638b" width="80px;" /></a><br/>DIO
+       </td> 
      </tr>
   </table>
-  <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="25%" /></a>
-  <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="23%" /></a>
   <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
  <!--Gráficos-->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=500&lines=%F0%9F%9A%80+GitHub+Stats" alt="Typing SVG" /></a>
