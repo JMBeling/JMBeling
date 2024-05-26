@@ -138,7 +138,7 @@
         <a href="https://www.skoob.com.br/usuario/1113322" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/e5acfd7b-2077-4ed1-8f23-6534572f47e8" width="80px;" /></a><br/>SKOOB
        </td>
        <td align="center">
-        <a href="https://www.dio.me/users/jaine_beling" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/238598c9-1e5c-414c-a6b9-f00c9b33638b" width="80px;" /></a><br/>DIO
+        <a href="https://www.behance.net/jainembeling/projects" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/9c8a3a5c-850e-4873-a159-d85e7a015545" width="80px;" /></a><br/>BEHANCE
        </td> 
      </tr>
   </table>
