@@ -123,9 +123,6 @@
         <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80px;" /></a><br/>LINKEDIN
        </td>
        <td align="center">
-        <a href="https://www.instagram.com/jm_beling/" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/0f1b34fa-9fec-40eb-899c-a38e602bac07" width="80px;" /></a><br/>INSTAGRAM
-       </td> 
-       <td align="center">
         <a href="https://www.figma.com/@JMBeling" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80px;" /></a><br/>FIGMA
        </td> 
        <td align="center">
@@ -133,12 +130,6 @@
        </td>
       <td align="center">
         <a href="https://stackoverflow.com/users/25008759/jaine-beling" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/d74b34b3-d362-4bd6-b124-74f7823e9725" width="80px;" /></a><br/>STRACK OVERFLOW
-       </td> 
-       <td align="center">
-        <a href="https://www.skoob.com.br/usuario/1113322" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/e5acfd7b-2077-4ed1-8f23-6534572f47e8" width="80px;" /></a><br/>SKOOB
-       </td>
-       <td align="center">
-        <a href="https://www.behance.net/jainembeling/projects" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/9c8a3a5c-850e-4873-a159-d85e7a015545" width="80px;" /></a><br/>BEHANCE
        </td> 
      </tr>
   </table>
