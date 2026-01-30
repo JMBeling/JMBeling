@@ -10,9 +10,9 @@
 <img  align="right" width="300"  src="https://github.com/user-attachments/assets/284776c6-26af-4392-ae7f-78a2142719af">
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=D9985F&background=11111100&center=true&vCenter=true&repeat=false&random=true&width=600&height=40&lines=%22Para+mim+todo+projeto+deve+ter+um+contexto%2C+uma+dor+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=D9985F&background=11111100&center=true&vCenter=true&repeat=false&random=true&width=600&height=40&lines=e+um+ser+humano+que+deseja+receber+a+informa%C3%A7%C3%A3o+que" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=D9985F&background=11111100&center=true&vCenter=true&repeat=false&random=true&width=600&height=40&lines=procura%2C+de+maneira+clara+e+direta." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=520&height=40&lines=Para+mim+todo+projeto+deve+ter+um+contexto%2C+uma+dor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=520&height=40&lines=e+um+ser+humano+que+deseja+receber+a+informa%C3%A7%C3%A3o+que" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=500&height=40&lines=procura%2C+de+maneira+clara+e+direta." alt="Typing SVG" /></a>
 
 
 
