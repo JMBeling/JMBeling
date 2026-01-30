@@ -1,8 +1,8 @@
 <!--Titulo & Apresentação-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FIRA&pause=1000&color=D9985F&random=true&width=300&lines=WEB+DESIGNER+UX%2FUI;DESENVOLVEDORA+FRONT-END" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+script&pause=1000&color=D9985F&vCenter=true&random=true&width=200&height=40&lines=WEB+DESIGNER+UI%2FUX;DEV+FRONT-END" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+Script&size=50&pause=1000&color=426EC7&vCenter=true&repeat=false&random=true&width=500&lines=Ol%C3%A1%2C+sou+Jaine+Beling..." alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FIRA&pause=1000&color=D9985F&repeat=false&random=true&width=200&lines=EDITADO+FEV+2026" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+script&pause=1000&color=D9985F&vCenter=true&repeat=false&random=true&width=100&height=40&lines=FEV+2026" alt="Typing SVG" /></a>
 <br>
 <br>
 <h2> Para mim todo projeto deve ter um contexto, uma dor e um ser humano que deseja receber a informação que procura, de maneira clara e direta.</h2>
