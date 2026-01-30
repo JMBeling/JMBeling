@@ -1,18 +1,28 @@
 <!--Titulo & Apresentação-->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+script&pause=1000&color=D9985F&vCenter=true&random=true&width=200&height=40&lines=WEB+DESIGNER+UI%2FUX;DEV+FRONT-END" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+Script&size=40&pause=1000&color=426EC7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Ol%C3%A1%2C+sou+Jaine+Beling..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+Script&size=50&pause=1000&color=426EC7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Ol%C3%A1%2C+sou+Jaine+Beling..." alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+script&pause=1000&color=D9985F&vCenter=true&repeat=false&random=true&width=100&height=40&lines=FEV+2026" alt="Typing SVG" /></a>
 <br>
 <br>
-<h2> Para mim todo projeto deve ter um contexto, uma dor e um ser humano que deseja receber a informação que procura, de maneira clara e direta.</h2>
+<br>
+<br>
+<img  align="right" width="300"  src="https://github.com/user-attachments/assets/284776c6-26af-4392-ae7f-78a2142719af">
+<br>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=D9985F&background=11111100&center=true&vCenter=true&repeat=false&random=true&width=600&height=40&lines=%22Para+mim+todo+projeto+deve+ter+um+contexto%2C+uma+dor+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=D9985F&background=11111100&center=true&vCenter=true&repeat=false&random=true&width=600&height=40&lines=e+um+ser+humano+que+deseja+receber+a+informa%C3%A7%C3%A3o+que" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=D9985F&background=11111100&center=true&vCenter=true&repeat=false&random=true&width=600&height=40&lines=procura%2C+de+maneira+clara+e+direta." alt="Typing SVG" /></a>
+
+
+
 <br>
 <br>
 <br>
 <br>
 <!--Resumo Profissional-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&random=false&width=700&lines=%F0%9F%9A%80Sobre+mim%3A;%F0%9F%9A%80+Resumo+Profissional%3A" alt="Typing SVG" /></a>
-<img  align="right" width="260"  src="https://github.com/JMBeling/JMBeling/assets/95389587/ee4aa6e3-8c04-461c-b59f-b9a8fe8e34f1">
+
 <p>🔹Minha jornada na área de desenvolvimento começou com um foco inicial em Front-End, onde explorei ferramentas fundamentais como HTML, CSS e Design UI/UX. Minha familiaridade com softwares como PHOTOSHOP e FIGMA facilitou minha imersão nesse mundo desde cedo.
  <br>
 🔹À medida que avanço na minha trajetória acadêmica, ampliei meu repertório aprendendo mais sobre linguagens como PYTHON, RUBY. Venho também me aprofundando em sistemas operacionais, com foco especial no Linux.
