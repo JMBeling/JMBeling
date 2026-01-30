@@ -1,8 +1,13 @@
 <!--Titulo & Apresentação-->
-<img width="20%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/cba7e65e-3806-4ddf-afbe-eb8c82f6ea61">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=65&pause=1000&color=048EF4&random=false&width=700&height=100&lines=Ol%C3%A1%2C+sou+Jaine+Beling" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&color=0482EE&random=false&width=700&lines=Desenvolvedora+Front-End;Estudante+de+Engenharia+de+Software;Ga%C3%BAcha;Desenvolvedora+Front-End" alt="Typing SVG" /></a>
-<img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FIRA&pause=1000&color=D9985F&random=true&width=300&lines=WEB+DESIGNER+UX%2FUI;DESENVOLVEDORA+FRONT-END" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+Script&size=50&pause=1000&color=426EC7&vCenter=true&repeat=false&random=true&width=500&lines=Ol%C3%A1%2C+sou+Jaine+Beling..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FIRA&pause=1000&color=D9985F&repeat=false&random=true&width=200&lines=EDITADO+FEV+2026" alt="Typing SVG" /></a>
+<br>
+<br>
+<h2> Para mim todo projeto deve ter um contexto, uma dor e um ser humano que deseja receber a informação que procura, de maneira clara e direta.</h2>
+<br>
+<br>
 <br>
 <br>
 <!--Resumo Profissional-->
@@ -163,5 +168,5 @@
  <img width="10%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/0c27b049-64d3-4d7f-b294-012165b24a24">
  <img width="10%" align="right" src="https://github.com/JMBeling/JMBeling/assets/95389587/0c27b049-64d3-4d7f-b294-012165b24a24">
  
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=65&pause=1000&color=048EF4&random=false&width=700&height=100&lines=Ol%C3%A1%2C+sou+Jaine+Beling" alt="Typing SVG" /></a>
    
