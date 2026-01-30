@@ -13,13 +13,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=520&height=40&lines=Para+mim+todo+projeto+deve+ter+um+contexto%2C+uma+dor" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=520&height=40&lines=e+um+ser+humano+que+deseja+receber+a+informa%C3%A7%C3%A3o+que" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=500&height=40&lines=procura%2C+de+maneira+clara+e+direta." alt="Typing SVG" /></a>
-<br>
-<br>
-<br>
-<br>
  <!--Link portfólio/currículo-->
   <a href="https://jmbeling.github.io/Portifolio_Pessoal/" target="_blank"><img  align="" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/8513c691-35f1-4c92-882d-635815f4ff90"></a>
   <a href="/" target="_blank"><img  align="" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/bc2b947c-dd73-4fec-aaca-e4275e039af8"></a>
+<br>
   <br>
   <br>
   <br>
