@@ -1,26 +1,30 @@
+<h1>EM OBRAS</h1>
 <!--Titulo & Apresentação-->
+<h1>Hello, I'm Jaine Beling<br>
+<img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+Information Systems Student & Self-Taught Product Designer 
+ <br> 
+ <br>
+<!--About Me-->
+About Me:</h1>
+<img  align="right" width="300"  src="https://github.com/user-attachments/assets/87e25070-4b7d-4660-b5b9-a39f4c3f5788">
+<h3>🎓 Academic: 5th-semester Information Systems student. <br><br>
+ 🧠 Future Focus: My long-term goal is to pursue postgraduate studies in Neuroscience and Behavior, combining cognitive psychology with interface design to create tech solutions that truly understand human interaction.<br><br>
+📚 Methodology: Currently following a structured, sequential study path in UI/UX Design (Google Professional Certificate) and Python development.<br><br>
+💼 Commercial & Communication Background: My experience working in customer-facing and retail environments has sharpened my user empathy, problem-solving skills, and resilience under dynamic routines.</h3>
+<br>
+<!--Academic Projects-->
+<h1>🔬 Research & Academic Projects</h1>
+<h3> **[Nome do Projeto de IC Antigo]** | *UI/UX Designer*
+    *   Designed a high-fidelity navigable prototype based on usability heuristics.
+    *   Published and presented the results at [Nome do Congresso/Palestra, se houver].
+    *   [Link para o repositório ou Case Study em PDF]</h3>
+<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+script&pause=1000&color=D9985F&vCenter=true&random=true&width=200&height=40&lines=WEB+DESIGNER+UI%2FUX;DEV+FRONT-END" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+Script&size=50&pause=1000&color=426EC7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Ol%C3%A1%2C+sou+Jaine+Beling..." alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Imperial+script&pause=1000&color=D9985F&vCenter=true&repeat=false&random=true&width=100&height=40&lines=FEV+2026" alt="Typing SVG" /></a>
-<br>
-<br>
-<br>
-<br>
-<img  align="right" width="300"  src="https://github.com/user-attachments/assets/284776c6-26af-4392-ae7f-78a2142719af">
-<br>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=520&height=40&lines=Para+mim+todo+projeto+deve+ter+um+contexto%2C+uma+dor" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=520&height=40&lines=e+um+ser+humano+que+deseja+receber+a+informa%C3%A7%C3%A3o+que" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&color=D9985F&background=111111BB&center=true&vCenter=true&repeat=false&random=true&width=500&height=40&lines=procura%2C+de+maneira+clara+e+direta." alt="Typing SVG" /></a>
- <!--Link portfólio/currículo-->
-  <a href="https://jmbeling.github.io/Portifolio_Pessoal/" target="_blank"><img  align="" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/8513c691-35f1-4c92-882d-635815f4ff90"></a>
-  <a href="/" target="_blank"><img  align="" width="200"  src="https://github.com/JMBeling/JMBeling/assets/95389587/bc2b947c-dd73-4fec-aaca-e4275e039af8"></a>
-<br>
-  <br>
-  <br>
-  <br>
-
+<h1>🛠️ Core Skills</h1>
+<h3> Design & Strategy: UI/UX Design, Design Systems, Wireframing, Usability Testing, Information Architecture.<br><br>
+Research & Tools: Scientific Writing, Git Version Control, Figma. <br><br>
+Languages: Portuguese (Native), English (), German ().</h3>
   <br>
   <br>
   <!-- Linguagens, Frameworks e Bibliotecas-->
