@@ -24,7 +24,9 @@ Information Systems Student & Self-Taught Product Designer</h1>
     *   Designed a high-fidelity navigable prototype based on usability heuristics.
     *   Published and presented the results at [Nome do Congresso/Palestra, se houver].
     *   [Link para o repositório ou Case Study em PDF]</h4>
+    
 <br>
+
 <!-- Skills, Frameworks-->
 <h2>🎨 Product Design</h2>
 <h3>Skills: User Research, Information Architecture, Wireframing, and High-Fidelity Prototyping (Figma).
@@ -84,12 +86,11 @@ Technology Tools:</h3>
       </td>
     </div>
     </table>
-
-
-
-
-
-Languages: Portuguese (Native), English (), German ().</h3>
+<!--Language-->
+<h2>🌐 Languages:</h2>
+<h3>Portuguese: C2 (Native/Fluent)<img width="66" height="47" align="right" alt="bandeira-Brasil" src="https://github.com/user-attachments/assets/0dc8ccb9-2c89-4df5-96aa-a7ecdb49453a" /><br><br>
+English: A1/A2 (Elementary Proficiency)<img width="66" height="47" align="right" alt="bandeira-Estados-Unidos" src="https://github.com/user-attachments/assets/4fc3abd3-db42-4828-a90c-794f05b1e7b7"" /><br><br>
+German: A1 (Beginner Proficiency)<img width="66" height="47" align="right" alt="bandeira-Alemanha" src="https://github.com/user-attachments/assets/000c1e46-9e4d-4fa0-9575-6ff99402b2e9" /></h3>
   <br>
   <br>
  
@@ -108,6 +109,9 @@ Languages: Portuguese (Native), English (), German ().</h3>
        </td>
       <td align="center">
         <a href="https://www.behance.net/jainembeling/projects" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" width="80px; alt="logo-behance" /><br><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
+       </td> 
+        <td align="center">
+        <a href="https://medium.com/@jaine.beling" target="_blank"><img src="https://github.com/user-attachments/assets/e525a3e5-5aa2-4ba9-a694-7517bf29c4da" width="80px; alt="logo-medium" /><br><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
        </td> 
      </tr>
   </table>
