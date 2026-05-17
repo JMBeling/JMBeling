@@ -105,7 +105,7 @@ Languages: Portuguese (Native), English (), German ().</h3>
   <table>
      <tr>
        <td align="center">
-        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80px;" /></a><br/><img width="80" height="20" alt="Frame 3" src="https://github.com/user-attachments/assets/7b1afaeb-c151-4bb6-a470-69ca971139fe" />
+        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80px;" /><br/><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
        </td>
        <td align="center">
         <a href="https://www.figma.com/@JMBeling" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80px;" /></a><br/>FIGMA
