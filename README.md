@@ -79,12 +79,12 @@ Technology Tools:</h3>
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
         <br>CSS
       </td>
-    </div>
+     </div>
     </table>
 <!--Language-->
 <h2>🌐 Languages:</h2>
 <h3>Portuguese: C2 (Native/Fluent)<img width="66" height="47" align="right" alt="bandeira-Brasil" src="https://github.com/user-attachments/assets/0dc8ccb9-2c89-4df5-96aa-a7ecdb49453a" /><br><br>
-English: A1/A2 (Elementary Proficiency)<img width="66" height="47" align="right" alt="bandeira-Estados-Unidos" src="https://github.com/user-attachments/assets/4fc3abd3-db42-4828-a90c-794f05b1e7b7"" /><br><br>
+English: A1/A2 (Elementary Proficiency)<img width="66" height="47" align="right" alt="bandeira-Estados-Unidos" src="https://github.com/user-attachments/assets/4fc3abd3-db42-4828-a90c-794f05b1e7b7" /><br><br>
 German: A1 (Beginner Proficiency)<img width="66" height="47" align="right" alt="bandeira-Alemanha" src="https://github.com/user-attachments/assets/000c1e46-9e4d-4fa0-9575-6ff99402b2e9" /></h3>
   <br>
   <br>
