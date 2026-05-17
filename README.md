@@ -20,6 +20,21 @@ Information Systems Student & Self-Taught Product Designer</h1>
 <!--Academic Projects-->
 <h2>🔬 Research & Academic Projects</h2>
 
+<h2>📂 Figma Community Contributions</h2>
+<h3>Open-source and documented projects for the design community</h3>
+<table>
+ <table align="center">
+  <td align="" width="">
+<h4>Low-Fidelity Wireframe:<br><br>
+A structured landing page blueprint designed for optimized user flows and information architecture.</h4>
+ <a href="https://www.figma.com/community/file/1302019694718479905/wireframe-de-media-fidelidade?q_id=aeb4eae2-72ab-42a5-b472-288186859f35" target="_blank"><img width="100" height="30" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392"/></a>
+  </td>
+  <td align="" width="">
+<h4>Figma Design System:<br><br>
+Creation of a design system, with typographic details, color chart with contrast accessibility, spacing patterns, and icons to use. Initial usability testing with heuristics.</h4>
+ <a href="https://www.figma.com/community/file/1387933354448558045/design-system?q_id=d3903950-5d7c-4eb3-b089-bae2a7f69c3f" target="_blank"><img width="100" height="30" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392"/></a>
+  </td>
+</table>
 <br>
 
 <!-- Skills, Frameworks-->
