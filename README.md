@@ -35,8 +35,8 @@ Learning: Study of formal concepts of usability and design systems.
 <br>
 Design Tools:</h3>
  <table>
-    <div style="display: flex; align-items: flex-start; >
-    <table align="center">
+    <div style="display: flex; align-items: flex-start;>
+     <table align="center">
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="logo-figma" width="40" height="40" />
         <br>Figma
@@ -57,9 +57,10 @@ Design Tools:</h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" alt="logo-canva" />
         <br>Canva
       </td>
+     </div>
     </table>
 
-
+<br>
 
 <h2>💻 Technology and Systems:</h2>
 <h3>Academic Foundations: Scientific Writing, Database Concepts, Version Control (Git/GitHub), Agile Workflows, Systems Architecture, and Programming Logic.
@@ -67,7 +68,7 @@ Design Tools:</h3>
 <br>
 Technology Tools:</h3>
 <table>
-    <div style="display: flex; align-items: flex-start; >
+    <div style="display: flex; align-items: flex-start;>
     <table align="center">
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
@@ -81,6 +82,7 @@ Technology Tools:</h3>
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
         <br>CSS
       </td>
+    </div>
     </table>
 
 
@@ -93,28 +95,19 @@ Languages: Portuguese (Native), English (), German ().</h3>
  
   <!--Contato-->
 <h2>🌐 Connect with Me:</h2>
- <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" /></a>
-   <img width="183" height="51" alt="Frame 3" src="https://github.com/user-attachments/assets/7b1afaeb-c151-4bb6-a470-69ca971139fe" />
-
-
-
-
-  
   <table>
      <tr>
        <td align="center">
-        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80px;" /><br/><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
+        <a href="https://www.linkedin.com/in/jaine-beling/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80px; alt="Logo-Linkedin"/><br/><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
        </td>
        <td align="center">
-        <a href="https://www.figma.com/@JMBeling" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80px;" /></a><br/>FIGMA
+        <a href="https://www.figma.com/@JMBeling" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80px;" /><br/><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
        </td> 
        <td align="center">
-        <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1162666Y7&tokenCaptchar=03AFcWeA6DVldJjh7PW0l9fhXdlXzSzpSiAyORcPEuFI01KWQ_UFN8Tggy9KESfxsoec6My2K8ravGRXLH_Mq5lXJoRJldm3KYRvNCpgm4PBb1scttIE1b8NmykA_9ffkBZv5NYnm_ge_dk3F00tj_c31xyw0giznsxPFvk_-JO8OTpiPP90t5jOQNnsy60mnekRkNci7SS6xkVLEA4I6mUSp9yCOEH7SjiDAGTTiIruojoFN1AQv2kv6hfBOhxZxlysuGmBheS2dShQJT6knFAVojZR-AxZC5QIPF7r_zj3AXkMTD2sqvscFSppe1UI268wU7rvQLC25NsYKZiSzXv3Il4AlTADxKqKuWZkGaiTjbpBMm4JZa1iisX0YWSP9-Mfbbls6SfmufRvLI3HUZ5078_EQWcM8nNqe-aRLlIbcw4m-p-Z1gtF9dfzmnd7ltkbJbn2rs1yXgKSVyBkceFIi3VVqxhGWSbk8wumSgQAEitzLqvXPs1_oIo1zq3kGqexO9RGX3VlssQGN_ukpsvePbNNSFXKk9D2e2-GEdx_XtO2ovRC2W-WuEqqJH9CygeM8aakreEiiBH8Sr7xAd3qm2bJKin75HEhVffuZ4TKsy23cvXITpFKpJQj-n6tu81UV06HmU9ycljfDGUyrOHzMv12kQW0kXh20DQn3xy7PPakmlU8SwoZY" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/843d691e-b19a-4264-86c0-851f79f6fa62" width="80px;" /></a><br/>LATTES
+        <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1162666Y7&tokenCaptchar=03AFcWeA6DVldJjh7PW0l9fhXdlXzSzpSiAyORcPEuFI01KWQ_UFN8Tggy9KESfxsoec6My2K8ravGRXLH_Mq5lXJoRJldm3KYRvNCpgm4PBb1scttIE1b8NmykA_9ffkBZv5NYnm_ge_dk3F00tj_c31xyw0giznsxPFvk_-JO8OTpiPP90t5jOQNnsy60mnekRkNci7SS6xkVLEA4I6mUSp9yCOEH7SjiDAGTTiIruojoFN1AQv2kv6hfBOhxZxlysuGmBheS2dShQJT6knFAVojZR-AxZC5QIPF7r_zj3AXkMTD2sqvscFSppe1UI268wU7rvQLC25NsYKZiSzXv3Il4AlTADxKqKuWZkGaiTjbpBMm4JZa1iisX0YWSP9-Mfbbls6SfmufRvLI3HUZ5078_EQWcM8nNqe-aRLlIbcw4m-p-Z1gtF9dfzmnd7ltkbJbn2rs1yXgKSVyBkceFIi3VVqxhGWSbk8wumSgQAEitzLqvXPs1_oIo1zq3kGqexO9RGX3VlssQGN_ukpsvePbNNSFXKk9D2e2-GEdx_XtO2ovRC2W-WuEqqJH9CygeM8aakreEiiBH8Sr7xAd3qm2bJKin75HEhVffuZ4TKsy23cvXITpFKpJQj-n6tu81UV06HmU9ycljfDGUyrOHzMv12kQW0kXh20DQn3xy7PPakmlU8SwoZY" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/843d691e-b19a-4264-86c0-851f79f6fa62" width="80px; alt="logo-lattes" /><br><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
        </td>
       <td align="center">
-        <a href="https://stackoverflow.com/users/25008759/jaine-beling" target="_blank"><img src="https://github.com/JMBeling/JMBeling/assets/95389587/d74b34b3-d362-4bd6-b124-74f7823e9725" width="80px;" /></a><br/>STRACK OVERFLOW
+        <a href="https://www.behance.net/jainembeling/projects" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" width="80px; alt="logo-behance" /><br><img width="80" height="20" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392" /></a>
        </td> 
      </tr>
   </table>
