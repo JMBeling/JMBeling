@@ -20,11 +20,7 @@ Information Systems Student & Self-Taught Product Designer</h1>
 
 <!--Academic Projects-->
 <h2>🔬 Research & Academic Projects</h2>
-<h4> **[Nome do Projeto de IC Antigo]** | *UI/UX Designer*
-    *   Designed a high-fidelity navigable prototype based on usability heuristics.
-    *   Published and presented the results at [Nome do Congresso/Palestra, se houver].
-    *   [Link para o repositório ou Case Study em PDF]</h4>
-    
+
 <br>
 
 <!-- Skills, Frameworks-->
