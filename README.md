@@ -1,10 +1,13 @@
 <h1>EM OBRAS</h1>
 <!--Titulo & Apresentação-->
-<h1>Hello, I'm Jaine Beling<br>
 <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+<h1>Hello, I'm Jaine Beling<br>
 Information Systems Student & Self-Taught Product Designer 
- <br> 
- <br>
+<img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
+ 
+<br> 
+<br>
+
 <!--About Me-->
 About Me:</h1>
 <img  align="right" width="300"  src="https://github.com/user-attachments/assets/87e25070-4b7d-4660-b5b9-a39f4c3f5788">
@@ -12,7 +15,9 @@ About Me:</h1>
  🧠 Future Focus: My long-term goal is to pursue postgraduate studies in Neuroscience and Behavior, combining cognitive psychology with interface design to create tech solutions that truly understand human interaction.<br><br>
 📚 Methodology: Currently following a structured, sequential study path in UI/UX Design (Google Professional Certificate) and Python development.<br><br>
 💼 Commercial & Communication Background: My experience working in customer-facing and retail environments has sharpened my user empathy, problem-solving skills, and resilience under dynamic routines.</h3>
+
 <br>
+
 <!--Academic Projects-->
 <h1>🔬 Research & Academic Projects</h1>
 <h3> **[Nome do Projeto de IC Antigo]** | *UI/UX Designer*
@@ -20,8 +25,21 @@ About Me:</h1>
     *   Published and presented the results at [Nome do Congresso/Palestra, se houver].
     *   [Link para o repositório ou Case Study em PDF]</h3>
 <br>
+<!-- Skills, Frameworks-->
+<h2>🎨 Product Design</h2>
+Skills: User Research, Information Architecture, Wireframing, and High-Fidelity Prototyping (Figma).
 
-<h1>🛠️ Core Skills</h1>
+Learning: Study of formal concepts of usability and design systems.
+
+Design Tools:
+
+💻 Technology and Systems
+Academic Foundations: Scientific Writing, Database Concepts, Version Control (Git/GitHub), Agile Workflows, Systems Architecture, and Programming Logic.
+
+Technology Tools:
+
+
+
 <h3> Design & Strategy: UI/UX Design, Design Systems, Wireframing, Usability Testing, Information Architecture.<br><br>
 Research & Tools: Scientific Writing, Git Version Control, Figma. <br><br>
 Languages: Portuguese (Native), English (), German ().</h3>
