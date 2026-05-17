@@ -2,14 +2,14 @@
 <!--Titulo & Apresentação-->
 <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
 <h1>Hello, I'm Jaine Beling<br>
-Information Systems Student & Self-Taught Product Designer 
+Information Systems Student & Self-Taught Product Designer</h1>
 <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
  
 <br> 
 <br>
 
 <!--About Me-->
-About Me:</h1>
+<h2>About Me:</h2>
 <img  align="right" width="300"  src="https://github.com/user-attachments/assets/87e25070-4b7d-4660-b5b9-a39f4c3f5788">
 <h3>🎓 Academic: 5th-semester Information Systems student. <br><br>
  🧠 Future Focus: My long-term goal is to pursue postgraduate studies in Neuroscience and Behavior, combining cognitive psychology with interface design to create tech solutions that truly understand human interaction.<br><br>
@@ -19,29 +19,74 @@ About Me:</h1>
 <br>
 
 <!--Academic Projects-->
-<h1>🔬 Research & Academic Projects</h1>
-<h3> **[Nome do Projeto de IC Antigo]** | *UI/UX Designer*
+<h2>🔬 Research & Academic Projects</h2>
+<h4> **[Nome do Projeto de IC Antigo]** | *UI/UX Designer*
     *   Designed a high-fidelity navigable prototype based on usability heuristics.
     *   Published and presented the results at [Nome do Congresso/Palestra, se houver].
-    *   [Link para o repositório ou Case Study em PDF]</h3>
+    *   [Link para o repositório ou Case Study em PDF]</h4>
 <br>
 <!-- Skills, Frameworks-->
 <h2>🎨 Product Design</h2>
-Skills: User Research, Information Architecture, Wireframing, and High-Fidelity Prototyping (Figma).
-
+<h3>Skills: User Research, Information Architecture, Wireframing, and High-Fidelity Prototyping (Figma).
+<br>
+<br>
 Learning: Study of formal concepts of usability and design systems.
+<br>
+<br>
+Design Tools:</h3>
+ <table>
+    <div style="display: flex; align-items: flex-start; >
+    <table align="center">
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="logo-figma" width="40" height="40" />
+        <br>Figma
+      </td>
+      <td align="center"  width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="40" height="40" alt="logo-adobe-xd" />
+        <br>AdobeXD
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="logo-photoshop" />
+        <br>Photoshop
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="40" height="40" alt="logo-illustrator" />
+        <br>Illustrator
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" alt="logo-canva" />
+        <br>Canva
+      </td>
+    </table>
 
-Design Tools:
-
-💻 Technology and Systems
-Academic Foundations: Scientific Writing, Database Concepts, Version Control (Git/GitHub), Agile Workflows, Systems Architecture, and Programming Logic.
-
-Technology Tools:
 
 
+<h2>💻 Technology and Systems:</h2>
+<h3>Academic Foundations: Scientific Writing, Database Concepts, Version Control (Git/GitHub), Agile Workflows, Systems Architecture, and Programming Logic.
+<br>
+<br>
+Technology Tools:</h3>
+<table>
+    <div style="display: flex; align-items: flex-start; >
+    <table align="center">
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <br>Python
+      </td>
+      <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+        <br>CSS
+      </td>
+    </table>
 
-<h3> Design & Strategy: UI/UX Design, Design Systems, Wireframing, Usability Testing, Information Architecture.<br><br>
-Research & Tools: Scientific Writing, Git Version Control, Figma. <br><br>
+
+
+
+
 Languages: Portuguese (Native), English (), German ().</h3>
   <br>
   <br>
