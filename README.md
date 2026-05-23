@@ -12,7 +12,7 @@ Information Systems Student & Self-Taught Product Designer</h1>
 <img  align="right" width="300"  src="https://github.com/user-attachments/assets/87e25070-4b7d-4660-b5b9-a39f4c3f5788">
 <h3>🎓 Academic: 5th-semester Information Systems student. <br><br>
  🧠 Future Focus: My long-term goal is to pursue postgraduate studies in Neuroscience and Behavior, combining cognitive psychology with interface design to create tech solutions that truly understand human interaction.<br><br>
-📚 Methodology: Currently following a structured, sequential study path in UI/UX Design (Google Professional Certificate) and Python development.<br><br>
+📚 Methodology: I am currently following a structured and sequential study path in UI/UX Design (Google Professional Certification) and Python development (Bachelor's Degree in Information Systems).<br><br>
 💼 Commercial & Communication Background: My experience working in customer-facing and retail environments has sharpened my user empathy, problem-solving skills, and resilience under dynamic routines.</h3>
 
 <br>
