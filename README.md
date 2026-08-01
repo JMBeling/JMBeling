@@ -1,37 +1,59 @@
 <!--Titulo & Apresentação-->
 <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
 <h1>Hello, I'm Jaine Beling<br>
-Information Systems Student & Self-Taught Product Designer</h1>
+UX/UI Product Designer & Systems Analyst</h1>
 <img width="1100" height="20" src="https://github.com/JMBeling/JMBeling/assets/95389587/dd4f29b1-b6ce-4f8a-a0a7-8e70e2273382">
  
 <br> 
 <br>
 
-<!--About Me-->
-<h2>About Me:</h2>
+<!--Sobre Mim-->
+<h2>Sobre Mim:</h2>
 <img  align="right" width="300"  src="https://github.com/user-attachments/assets/87e25070-4b7d-4660-b5b9-a39f4c3f5788">
-<h3>🎓 Academic: 5th-semester Information Systems student. <br><br>
- 🧠 Future Focus: My long-term goal is to pursue postgraduate studies in Neuroscience and Behavior, combining cognitive psychology with interface design to create tech solutions that truly understand human interaction.<br><br>
-📚 Methodology: I am currently following a structured and sequential study path in UI/UX Design (Google Professional Certification) and Python development (Bachelor's Degree in Information Systems).<br><br>
-💼 Commercial & Communication Background: My experience working in customer-facing and retail environments has sharpened my user empathy, problem-solving skills, and resilience under dynamic routines.</h3>
+<h3>🎓 Formação: Graduanda no 6º semestre de Sistemas de Informação.
+<br><br>
+🧠 Foco & Visão: Meu objetivo a longo prazo é integrar a psicologia cognitiva e a neurociência ao design de interfaces, criando soluções tecnológicas que verdadeiramente compreendam o comportamento, as limitações e a experiência humana.
+<br><br>
+📚 Metodologia: Sigo uma trajetória de estudos autônoma e estruturada em UI/UX Design (Certificação Profissional do Google) e desenvolvimento de software (Python / Sistemas de Informação), combinando rigor teórico com aplicação prática.
+<br><br>
+💼 Experiência Prática & Comunicação: Minha trajetória prática no ambiente comercial e de atendimento ao público fortaleceu minhas habilidades de comunicação, escuta ativa e facilidade para traduzir necessidades dos clientes em soluções funcionais.</h3>
 
 <br>
 
 <!--Academic Projects-->
-<h2>🔬 Research & Academic Projects</h2>
-
-<h2>📂 Figma Community Contributions</h2>
-<h3>Open-source and documented projects for the design community</h3>
+<h2>🔬 Projetos de Pesquisa e Acadêmicos</h2>
 <table>
  <table align="center">
   <td align="" width="">
-<h4>Low-Fidelity Wireframe:<br><br>
-A structured landing page blueprint designed for optimized user flows and information architecture.</h4>
+<h4><strong>Plataforma de Rastreamento de Zoonoses em Animais de Companhia - 2024</strong><br><br>
+Iniciação Científica UNINTER | UI/UX Design (Documentado no Behance)<br><br>
+Design de Produto: Responsável por todo o ciclo visual da plataforma, desde a arquitetura de informação e wireframes até a criação do Design System e protótipo interativo navegável em alta fidelidade.<br><br>
+Publicação & Comunicação Científica: Resultados do projeto documentados e publicados em artigos científicos, além de apresentação em palestra acadêmica.</h4>
+   <a href="https://www.behance.net/gallery/238320283/Plataforma-para-Rastreamento-de-Zoonoses-em-Animais-D" target="_blank"><img width="100" height="30" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392"/></a>
+  </td>
+  <td align="" width="">
+<h4><strong>Sistema de Apoio à Decisão Vocacional em TI  | 	2026 - Em Andamento</strong><br>
+Iniciação Científica UNINTER | UI/UX Design, UX Research & Psicologia Aplicadao<br><br>
+UX Research & Mapeamento Lógico: Mapeamento de perfis comportamentais e cursos de TI para estruturar a lógica do algoritmo e a navegação da aplicação.<br><br>
+Estruturação de Fluxo & Prototipagem: Desenvolvimento do fluxo do usuário, design system, wireframes, protótipos e questionário adaptativo de 14 etapas (filtragem e cenários comportamentais).<br><br>
+Viabilidade & Arquitetura: Especificação e preparação de entregáveis para implementação low-code em Power Apps no ambiente acadêmico da UNINTER.
+</h4>
+  </td>
+</table>
+
+
+<h2>📂 Contribuições da Comunidade Figma</h2>
+<h3>Projetos de código aberto e documentados para a comunidade de design.</h3>
+<table>
+ <table align="center">
+  <td align="" width="">
+<h4>Wireframe de baixa fidelidade:<br><br>
+Um modelo estruturado de landing page projetado para fluxos de usuário e arquitetura de informação otimizados.</h4>
  <a href="https://www.figma.com/community/file/1302019694718479905/wireframe-de-media-fidelidade?q_id=aeb4eae2-72ab-42a5-b472-288186859f35" target="_blank"><img width="100" height="30" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392"/></a>
   </td>
   <td align="" width="">
 <h4>Figma Design System:<br><br>
-Creation of a design system, with typographic details, color chart with contrast accessibility, spacing patterns, and icons to use. Initial usability testing with heuristics.</h4>
+Criação de um sistema de design com detalhes tipográficos, paleta de cores com acessibilidade de contraste, padrões de espaçamento e ícones para uso. Testes iniciais de usabilidade com heurísticas.</h4>
  <a href="https://www.figma.com/community/file/1387933354448558045/design-system?q_id=d3903950-5d7c-4eb3-b089-bae2a7f69c3f" target="_blank"><img width="100" height="30" alt="Frame 4" src="https://github.com/user-attachments/assets/29e0d6be-f508-46b2-a5c6-39ed2bbf2392"/></a>
   </td>
 </table>
@@ -42,10 +64,14 @@ Creation of a design system, with typographic details, color chart with contrast
 <h3>Skills: User Research, Information Architecture, Wireframing, and High-Fidelity Prototyping (Figma).
 <br>
 <br>
-Learning: Study of formal concepts of usability and design systems.
+Estudos:<br><br>
+Google UX Design Professional Certificate — Google / Coursera (Em andamento - 2/8 cursos concluídos)<br>
+Foundations of User Experience (UX) Design -  <a href="https://www.coursera.org/account/accomplishments/verify/J1HEQPV5DJG2" target="_blank">CERTIFICADO</a><br>
+Start the UX Design Process: Empathize, Define, and Ideate - <a href="https://www.coursera.org/account/accomplishments/verify/4SLIEIN5MRRF" target="_blank">CERTIFICADO</a><br>
+
 <br>
 <br>
-Design Tools:</h3>
+Ferramentas de Design:</h3>
  <table>
     <div style="display: flex; align-items: flex-start;>
      <table align="center">
@@ -74,11 +100,11 @@ Design Tools:</h3>
 
 <br>
 
-<h2>💻 Technology and Systems:</h2>
-<h3>Academic Foundations: Scientific Writing, Database Concepts, Version Control (Git/GitHub), Agile Workflows, Systems Architecture, and Programming Logic.
+<h2>💻 Tecnologia e Sistemas:</h2>
+<h3>Fundamentos Acadêmicos: Redação Científica, Conceitos de Banco de Dados, Controle de Versão (Git/GitHub), Metodologias Ágeis, Arquitetura de Sistemas e Lógica de Programação.
 <br>
 <br>
-Technology Tools:</h3>
+Ferramentas de Tecnologia:</h3>
 <table>
     <div style="display: flex; align-items: flex-start;>
     <table align="center">
